@@ -1,3 +1,4 @@
+# Libby added this! 
 # CollectionBuilder-Sheets
 
 CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV (such as a published Google Sheet!). 
